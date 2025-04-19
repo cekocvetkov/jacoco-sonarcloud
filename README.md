@@ -1,3 +1,7 @@
+# Code for the medium article:
+[JaCoCo Code Coverage Report in SonarCloud with Quarkus
+](https://medium.com/itnext/jacoco-code-coverage-report-in-sonarcloud-with-quarkus-4a8d79d1a53d)
+
 # jacoco-example
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
