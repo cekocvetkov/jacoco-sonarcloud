@@ -1,6 +1,6 @@
-# Code for the medium article:
-[JaCoCo Code Coverage Report in SonarCloud with Quarkus
-](https://medium.com/itnext/jacoco-code-coverage-report-in-sonarcloud-with-quarkus-4a8d79d1a53d)
+> 📖 **Read the full article on Medium:**  
+> [JaCoCo Code Coverage Report in SonarCloud with Quarkus](https://medium.com/itnext/jacoco-code-coverage-report-in-sonarcloud-with-quarkus-4a8d79d1a53d)  
+> This article is focused on the practical setup. By the time you’re done here, you’ll know exactly what to do to set the whole thing up. The steps should also be beginner-friendly, as they explain everything in great detail. Let’s start!
 
 # jacoco-example
 
